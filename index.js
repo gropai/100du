@@ -1,5 +1,4 @@
 import '../css/styles.css';
-// import '../index.html';
 
 //定义通用工具方法
 var Utils = (function(){
